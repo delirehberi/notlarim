@@ -24,10 +24,21 @@ Freelance çalışmak ilk olarak şunları gerektirir
 * Karaktere göre bir çalışma ortamı
 
     Kendinizi tanıyın ve ona göre bir çalışma ortamı hazır edin. Eğer bağdaş kurarak çalışmayı seven biriyseniz daha geniş
-    bir koltuk tercih edin. Oyuncaklardan hoşlan
+    bir koltuk tercih edin. Eğer sahil kenarında çalışmak sizi motive ediyorsa hiç düşünmeden gidin. Fakat bundan emin olun,
+    ilk zamanlarda motive ettiğini sandığınız şeyler sadece birer heves olabiliyor aslında. Sonrasında süper ötesi bir
+    motivasyon düşüşü kaçınılmaz oluyor.
 
 * Kendi kendini motive edebilme yeteneği
+
+    Tek başına yaşamayı bilmek gibidir aslında freelance çalışmak. Kendinizle sohbet edin, arada bir çıkıp yürüyüş yapın,
+    hoşunuza giden ve sizi motive edebilecek şeyler yapın. Freelance çalışan birinin en muhtaç olduğu şey motivasyondur,
+    ve bunu sizden başka kimse size vermeyecektir. Eğer motivasyon sorununuz varsa bir şirkette çalışmayı tercih etmelisiniz.
+    Ofis ortamı motivasyonu arttıran birşeydir.
+
 * Yeteri kadar sosyallik
+
+
+
 * Ticari zeka
 * İletişim bilgisi
 
