@@ -78,3 +78,12 @@ Kaynaklar:
 
 ### Freelance Çalışmak Ne Demek Değildir ? ###
 
+* Projeyi yarıda terkedebilmek değildir.
+* Hazır işleri satmak değildir.
+* Yan gelip yatma yeri değildir (!)
+* Başıboşluk değildir.
+* Müşteriye karşı hadsizlik edebilme hakkı değildir.
+* Piyasayı aşağı çekmek için oluşmuş bir pazar değildir.
+* Düzenli işten arta kalan zamanlara sıkıştırılabilecek birşey değildir.
+* Vergi kaçırmak değildir.
+
