@@ -5,8 +5,8 @@ ve uygulayabilmesi için github üzerinde bulundurmayı tercih ediyorum. Tamamiy
 
 ##### Temel olarak bu dökümanda yer alacak konular aşağıdaki gibidir: #####
 
-* [Özgür Yazılımcı Nedir ?](Ozgur-Yazilimci-Nedir.md)
-* [Özgür Yazılımcı Ne Değildir ?](Ozgur-Yazilimci-Ne-Degildir.md)
+* [Özgür Yazılımcı Nedir ?](Yazilim/Ozgur-Yazilimci-Nedir.md)
+* [Özgür Yazılımcı Ne Değildir ?](Yazilim/Ozgur-Yazilimci-Ne-Degildir.md)
 
 
 * Müşteri İlişkileri
