@@ -46,15 +46,33 @@
     olmalı. Aksine Özgür Yazılımcı denilen şahış, dünyayı kurtaran adam potansiyeline sahiptir. Her bir Özgür
     Yazılımcı bir süper kahramandır aynı zamanda. Süper kahramanlar yalnızdır, fakat daima etraflarda kendilerine
     destek olacak birileri ve yapacak fiziksel birşeyleri vardır. Bizim en büyük sorunum sadece bilgisayarla iletişim
-     kuruyor olmamızdır. Bunu aşıp gerçekten sosyalleşmeyi bilip, hem iş konusunda iyi şeyler yapıp,
-     hem hayatımızı iyi yaşamalıyız.
+    kuruyor olmamızdır. Bunu aşıp gerçekten sosyalleşmeyi bilip, hem iş konusunda iyi şeyler yapıp,
+    hem hayatımızı iyi yaşamalıyız.
 
 
 * Ticari zeka
 
+    Serbest olarak çalışacağınız için bir bakıma esnaf sayılıyorsunuz. Bu sebeple ticari zekanızın yeterli seviyede
+    olması gerek ve para yönetimi konusunda bilginizin olması gerek. Eğer para akışınızı kontrol etmeyi
+    başaramazsanız kendisinizi garip saçma bir döngünün içerisinde bulabilirsiniz. "Para mutluluk getirmez,
+    ancak parasızlık mutsuzluk getirir." şeklinde söylenmiş söze ek olarak "Mutsuz yazılımcı üretken olamaz" demek
+    istiyorum. Yani eğer para kontrolünüzü kaybederseniz bir süre sonra maddi dengesizliğinizden ötürü üretme
+    şevkinizi de yitireceksiniz. Bu bir kısır döngüdür, "Para kazanmak için üretmeliyim,
+    üretmek için paraya ihtiyacım var" . Ki bu çok tehlikeli bir durumdur. Kendinizi ruhsal olarak da farklı
+    sıkıntılar içinde bulabilirsiniz. Bu yüzden ticari zeka kısmındaki dikkatli olmanız gerek. Eğer yaptığınız işi
+    satacak ve para kazanabilecek kabiliyetiniz yoksa, maaş almaya devam etmelisiniz.
+
+
 * İletişim bilgisi
 
-Özgür Yazılımcı çalışırken şunlara sahip olursunuz
+    Bu kısımda devreye sosyal zeka giriyor. Eğer müşterilerle iletişim kurma konusunda zayıf hissediyorsanız
+    kendinizi dikkatli olun. Müşteriler öncelikli esnaf zihniyetinden olduklarından dolayı sizi kolay lokma haline
+    çevirebilirler. Bir bakarsınız ki aldığınız ücretin 4-5 katı iş yapmış ve yine de yaranamamışsınız. İletişim
+    konusu müşteri dışında çözüm ortaklarıyla da anlaşmak için önemlidir. Eğer iletişim kurma konusunda sorunlar
+    yaşayabileceğinizi düşünüyorsanız geri durun.
+
+
+Özgür olarak çalışırken şunlara sahip olursunuz
 
 * Tüm kararları verecek olan siz olduğunuz için özgürsünüzdür.
 * İstediğiniz yada müşteriye göre anlaşılan yerde çalışabilirsiniz , özgürsünüzdür.
@@ -64,7 +82,7 @@
 * Yazdığınız kodlar (anlaşmaya göre farklılık gösterebilir) tamamen size aittir.
 * Kız arkadaşınızla sevişmek istediğiniz her an bunu başarabilirsiniz, özgürsünüzdür.
 
-Özgür Yazılımcı çalışırken şunlara sahip olamayacaksınız
+Özgür olarak çalışırken şunlara sahip olamayacaksınız
 
 * Ay sonunda sabit bir maaş garantisi
 * Çalıştığınız müşterilerden sosyal ve akdi hak talebi
@@ -73,7 +91,7 @@
 * Sabit mesai saatleri
 * Şirket partileri
 
-Özgür Yazılımcı çalışırken şunlar size bağlıdır
+Özgür olarak çalışırken şunlar size bağlıdır
 
 * Fatura kesme işlemleri
 * Sigorta ödemeleri
