@@ -11,19 +11,42 @@ ve uygulayabilmesi için github üzerinde bulundurmayı tercih ediyorum. Tamamiy
 
 * Müşteri İlişkileri
     * Müşteri ile ilk intiba
+        - Ön Araştırma
+        - İlk Toplantı
+        - Tekliflendirme
+        -
     * Görüşme süreçleri
+        - Revizeler
     * Müşteriyle ilişki kesme süreçleri
-
+        - İş Aktarımı
+        - Son Toplantı
 
 * İş Süreçleri
     * Planlama
+        - Analiz
+        - WireFrame / Mockup
+        - Uygulama
+        - Test
+        - Yayına Alma
+        - Revizeler
+
     * Tekil olarak çalışmak
+
     * Bir takıma bağlı olarak çalışmak
+        - Roller
 
 
 * Yardımcı Uygulamalar
     * Proje yönetimi için
         - [ Asana ](Uygulamalar/Asana.md)
+        - Jira
+        - MindMeister
+        - Google Docs
     * Yazılımcı için
+        - Git VCS
+        - GitWeb
+        -
     * Tasarımcı için
+        -
     * Medya Danışmanlığı için
+        -
