@@ -14,7 +14,7 @@ ve uygulayabilmesi için github üzerinde bulundurmayı tercih ediyorum. Tamamiy
         - Ön Araştırma
         - İlk Toplantı
         - Tekliflendirme
-        -
+
     * Görüşme süreçleri
         - Revizeler
     * Müşteriyle ilişki kesme süreçleri
