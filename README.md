@@ -42,10 +42,11 @@ ve uygulayabilmesi için github üzerinde bulundurmayı tercih ediyorum. Tamamiy
         - Jira
         - MindMeister
         - Google Docs
+
     * Yazılımcı için
         - Git VCS
         - GitWeb
-        -
+
     * Tasarımcı için
         -
     * Medya Danışmanlığı için
