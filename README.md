@@ -23,6 +23,7 @@ ve uygulayabilmesi için github üzerinde bulundurmayı tercih ediyorum. Tamamiy
 
 * Yardımcı Uygulamalar
     * Proje yönetimi için
+        - [ Asana ](Uygulamalar/Asana.md)
     * Yazılımcı için
     * Tasarımcı için
     * Medya Danışmanlığı için
