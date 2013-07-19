@@ -34,6 +34,7 @@ ve uygulayabilmesi için github üzerinde bulundurmayı tercih ediyorum. Tamamiy
 
     * Bir takıma bağlı olarak çalışmak
         - Roller
+            * [ Proje Yöneticisi ](Yazilim/Roller/Proje-Yoneticisi.md)
 
 
 * Yardımcı Uygulamalar
