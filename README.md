@@ -43,7 +43,7 @@ ve uygulayabilmesi için github üzerinde bulundurmayı tercih ediyorum. Tamamiy
 * Yardımcı Uygulamalar
     * Proje yönetimi için
         - [ Asana ](Uygulamalar/Asana.md)
-        - [ Jira ](Uygulamalar/Jira.md
+        - [ Jira ](Uygulamalar/Jira.md)
         - [ MindMeister ](Uygulamalar/MindMeister.md)
         - [ Google Docs ](Uygulamalar/Google-Docs.md)
 	- [ Jenkins - Hudson ](Uygulamalar/Jedkins-Hudson.md)
