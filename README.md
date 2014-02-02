@@ -15,40 +15,58 @@ ve uygulayabilmesi için github üzerinde bulundurmayı tercih ediyorum. Tamamiy
         - İlk Toplantı
         - Tekliflendirme
 
-    * Görüşme süreçleri
-        - Revizeler
+    * Görüşme süreçleri 
+
     * Müşteriyle ilişki kesme süreçleri
         - İş Aktarımı
         - Son Toplantı
 
 * İş Süreçleri
     * Planlama
-        - Analiz
-        - WireFrame / Mockup
-        - Uygulama
-        - Test
-        - Yayına Alma
-        - Revizeler
+        - [ Analiz ](Is-Surecleri/Planlama/Analiz.md)
+        - [ WireFrame / Mockup ](Is-Surecleri/Planlama/Wireframe-Mockup.md)
+    * [ Uygulama ](Is-Surecleri/Uygulama/index.md)
+        - [ Test ](Is-Surecleri/Uygulama/Test.md)
+    * [ Yayına Alma ](Is-Surecleri/Yayina-Alma.md)
+    * [ Devamlı Geliştirmeler ](Is-Surecleri/Devamli-Gelistirmeler.md)
 
     * Tekil olarak çalışmak
 
     * Bir takıma bağlı olarak çalışmak
         - Roller
             * [ Proje Yöneticisi ](Yazilim/Roller/Proje-Yoneticisi.md)
-
+	    * [ Arayüz Geliştirici ](Yazilim/Roller/Arayuz-Gelistirici.md)
+            * [ Tasarımcı ](Yazilim/Roller/Tasarimci.md)
+            * [ Yazılım Geliştirici ](Yazilim/Roller/Yazilim-Gelistirici.md)
+            * [ İçerik Editörü ](Yazilim/Roller/Icerik-Editoru.md)
 
 * Yardımcı Uygulamalar
     * Proje yönetimi için
         - [ Asana ](Uygulamalar/Asana.md)
-        - Jira
-        - MindMeister
-        - Google Docs
+        - [ Jira ](Uygulamalar/Jira.md
+        - [ MindMeister ](Uygulamalar/MindMeister.md)
+        - [ Google Docs ](Uygulamalar/Google-Docs.md)
+	- [ Jenkins - Hudson ](Uygulamalar/Jedkins-Hudson.md)
 
     * Yazılımcı için
-        - Git VCS
-        - GitWeb
+        - [ Git VCS ](Uygulamalar/Git-vsc.md)
+        - [ Github - Gitweb ](Uygulamar/Github-Gitweb.md)
+	+ PHP Geliştirici Araçları
+		- PHPStorm
+		- Symfony2
+		- xDebug
+		- PHPUnit
+		- CodeSniffer
+		- PHPDoc	
+	- Elastic Search
+	- Redis
+	- Mysql
+	- RabbitMQ
 
     * Tasarımcı için
         -
-    * Medya Danışmanlığı için
+
+    * Arayüz Geliştirici için
+	- [ Sublime ](Uygulamalar/Sublime.md)
+	- [ Brackets ](Uygulamalar/Brackets.md)
         -
