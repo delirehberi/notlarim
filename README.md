@@ -54,6 +54,12 @@ ve uygulayabilmesi için github üzerinde bulundurmayı tercih ediyorum. Tamamiy
 	+ PHP Geliştirici Araçları
 		- PHPStorm
 		- Symfony2
+			- [Framework](https://github.com/symfony/symfony)
+			- [Documents](https://github.com/symfony/symfony-docs)
+			- [KNPLabs Bundles](https://github.com/KnpLabs)
+			- [Friend Of Symfony Bundles](https://github.com/friendsofsymfony)
+			- [Symfony Console Autocomplete](https://github.com/KnpLabs/symfony2-autocomplete) 
+			- [Sublime Extension](https://github.com/raulfraile/sublime-symfony2)
 		- xDebug
 		- PHPUnit
 		- CodeSniffer
