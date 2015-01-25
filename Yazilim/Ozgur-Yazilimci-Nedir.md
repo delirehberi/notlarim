@@ -1,4 +1,6 @@
-### Özgür Yazılımcı Olmak Ne Demektir ? ###
+### Özgür  Yazılımcı Olmak Ne Demektir ? ###
+
+**dipnot: buradaki özgür yazılımcı free developer mahiyetindedir. opensource ile alakalı değildir. **
 
 Özgür Yazılımcı olmak ilk olarak şunları gerektirir
 
@@ -10,8 +12,8 @@
 
 * Sorumluluk
 
-    Özgür Yazılımcı olunca işlerin sorumluluğu üzerinizden kalmaz, aksine daha da üzerinize biner. Bir şirkette yaptığınız işin
-    satılıp satılmayacağı sizi bağlamaz, ay sonunda maaşınızı alırsınız, fakat Özgür Yazılımcı çalışıyor iseniz, müşterinizi
+    Özgür Yazılımcı olunca işlerin sorumluluğu üzerinizden kalkmaz, aksine daha da üzerinize biner. Bir şirkette yaptığınız işin
+    satılıp satılmayacağı sizi bağlamaz, ay sonunda maaşınızı alırsınız, fakat özgür yazılımcı olarak çalışıyor iseniz, müşterinizi
     ihmal etmemeniz gerekmektedir, telefonunuzu asla kapatmamanız gerekmektedir. Zamanlamanızı iyi ayarlamanız gerekmektedir.
 
 
@@ -45,7 +47,7 @@
     Evet, bahsettiğim gibi Özgür Yazılımcı yalnız yaşamayı becerebilmelidir, fakat bu demek değil ki tamamiyle asosyal
     olmalı. Aksine Özgür Yazılımcı denilen şahış, dünyayı kurtaran adam potansiyeline sahiptir. Her bir Özgür
     Yazılımcı bir süper kahramandır aynı zamanda. Süper kahramanlar yalnızdır, fakat daima etraflarda kendilerine
-    destek olacak birileri ve yapacak fiziksel birşeyleri vardır. Bizim en büyük sorunum sadece bilgisayarla iletişim
+    destek olacak birileri ve yapacak fiziksel birşeyleri vardır. Bizim en büyük sorunumuz sadece bilgisayarla iletişim
     kuruyor olmamızdır. Bunu aşıp gerçekten sosyalleşmeyi bilip, hem iş konusunda iyi şeyler yapıp,
     hem hayatımızı iyi yaşamalıyız.
 
@@ -76,11 +78,10 @@
 
 * Tüm kararları verecek olan siz olduğunuz için özgürsünüzdür.
 * İstediğiniz yada müşteriye göre anlaşılan yerde çalışabilirsiniz , özgürsünüzdür.
-* Bi denetmeniniz bulunmadığı için rahatsınızdır.
+* Bi denetmeniniz bulunmadığı için rahatsınızdır. ( kendinizi denetleyin !!! )
 * Uyku , eğlence , iş saatlerinizi canınız nasıl isterse ayarlayabilirsiniz, özgürsünüzdür.
 * İstediğiniz bir teknolojiyi kullanabilirsiniz.
 * Yazdığınız kodlar (anlaşmaya göre farklılık gösterebilir) tamamen size aittir.
-* Kız arkadaşınızla sevişmek istediğiniz her an bunu başarabilirsiniz, özgürsünüzdür.
 
 Özgür olarak çalışırken şunlara sahip olamayacaksınız
 
